@@ -1,0 +1,14 @@
+.button-warning{
+    background-color: #ffc107;
+    display: inline-block;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 30px;
+    padding: 9px 25px;
+    text-transform: capitalize;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
